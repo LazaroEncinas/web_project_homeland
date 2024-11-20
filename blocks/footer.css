@@ -13,3 +13,14 @@
   line-height: 1.14;
 }
 
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .footer {
+    padding-top: 88px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .footer {
+    padding-top: 64px;
+  }
+}
