@@ -1,0 +1,15 @@
+.photos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  margin: 118px 48px 0 48px;
+  row-gap: 16px;
+  column-gap: 16px;
+
+}
+
+.image {
+  width: 100%;
+  justify-items: center;
+  gap: 16px 16px;
+}
