@@ -14,7 +14,7 @@
   "button texts"
   ". texts";
   width: 100%;
-  font-family: "Inter" sans-serif;
+  font-family: "Inter", sans-serif;
   margin-bottom: 80px;
 }
 
@@ -45,7 +45,7 @@
   color: #aaa;
   font-size: 0.75rem;
   line-height: 1.21;
-  letter-spacing: 12%;
+  letter-spacing: 0.12em;
   line-height: 14.52px;
 }
 
@@ -74,7 +74,7 @@
 .places__text {
   width: 100%;
   max-width: 484px;
-  font-family: "Inter" sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   margin: 0;
   font-size: 1.12rem;
@@ -95,7 +95,7 @@
   color: #fff;
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   border-radius: 4px;
-  font-family: "Inter" sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 1.12rem;
   line-height: 21.78px;
   box-shadow: 5px 5px 10px 0px #00000040;
