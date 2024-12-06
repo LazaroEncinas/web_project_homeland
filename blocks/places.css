@@ -48,6 +48,13 @@
   letter-spacing: 0.12em;
 }
 
+.places__artist-name {
+  width: 100%;
+  margin: 0;
+  font-size: 1.12rem;
+  line-height: 1.22;
+  }
+
 .places__image {
   grid-area: image;
   width: 100%;
